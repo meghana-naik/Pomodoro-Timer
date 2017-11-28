@@ -11,7 +11,7 @@ The application allows the User to:
 General Algorithm:
 1. The user is provided with the option to start the timer.
 2. The user is provided with the option to display the remaining time.
-3. The timer function for each Pomodoro cycle is called from the main function. 
-4. After 4 cycles of Pomodoro, the timer function for the break period is called .
+3. The timer function is called for each Pomodoro cycle from the main function. 
+4. After 4 cycles of Pomodoro, the timer function is called for the break period.
 5. The timer function for the next 4 cycles of the Pomodoro timer is called again.
 6. The User is provided the option to restart the whole process again or exit. 
