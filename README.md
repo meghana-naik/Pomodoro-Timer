@@ -15,3 +15,6 @@ General Algorithm:
 4. After 4 cycles of Pomodoro, the timer function is called for the break period.
 5. The timer function for the next 4 cycles of the Pomodoro timer is called again.
 6. The User is provided the option to restart the whole process again or exit. 
+
+Requirements:
+Python 2.7
