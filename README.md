@@ -9,9 +9,9 @@ The application allows the User to:
 3. Allows the user to view the remaining time of the timer.
 
 General Algorithm:
-1. The user is provided the option to start the timer.
-2. The user is provided the option to display the remaining time.
+1. The user is provided with the option to start the timer.
+2. The user is provided with the option to display the remaining time.
 3. The timer function for each Pomodoro cycle is called from the main function. 
-4. After 4 cycles of the timer, the timer function for the break period is called .
+4. After 4 cycles of Pomodoro, the timer function for the break period is called .
 5. The timer function for the next 4 cycles of the Pomodoro timer is called again.
 6. The User is provided the option to restart the whole process again or exit. 
